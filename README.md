@@ -1,4 +1,4 @@
-# 🧑‍💻 Revanth's Personal Portfolio Website
+# 🧑‍💻 K.L.Chandra Sekhar Personal Portfolio Website
 
 A complete, responsive personal portfolio website built with **React + Vite**, featuring a public portfolio and a fully functional admin dashboard.
 
